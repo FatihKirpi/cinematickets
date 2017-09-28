@@ -1,0 +1,18 @@
+c:\users\fatih\documents\visual studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\bin\Debug\sinemaotomasyon.exe.config
+C:\Users\fatih\Documents\Visual Studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Documents\Visual Studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.Form1.resources
+C:\Users\fatih\Documents\Visual Studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.csproj.GenerateResource.Cache
+C:\Users\fatih\Documents\Visual Studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\bin\Debug\sinemaotomasyon.exe
+C:\Users\fatih\Documents\Visual Studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\bin\Debug\sinemaotomasyon.pdb
+C:\Users\fatih\Documents\Visual Studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.exe
+C:\Users\fatih\Documents\Visual Studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.pdb
+C:\Users\fatih\documents\visual studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.koltuksecim.resources
+C:\Users\fatih\documents\visual studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.yönetici_panel.resources
+C:\Users\fatih\documents\visual studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.giris.resources
+C:\Users\fatih\documents\visual studio 2012\Projects\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.salonekle.resources
+C:\Users\fatih\Desktop\2\görsel programlama\1157008018fatihkirpi\sinemaotomasyon\sinemaotomasyon\bin\Debug\sinemaotomasyon.exe.config
+C:\Users\fatih\Desktop\2\görsel programlama\1157008018fatihkirpi\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.exe
+C:\Users\fatih\Desktop\2\görsel programlama\1157008018fatihkirpi\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.pdb
+C:\Users\fatih\Desktop\2\1.dönem\görsel programlama\1157008018fatihkirpi\sinemaotomasyon\sinemaotomasyon\bin\Debug\sinemaotomasyon.exe.config
+C:\Users\fatih\Desktop\2\1.dönem\görsel programlama\1157008018fatihkirpi\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.exe
+C:\Users\fatih\Desktop\2\1.dönem\görsel programlama\1157008018fatihkirpi\sinemaotomasyon\sinemaotomasyon\obj\Debug\sinemaotomasyon.pdb
